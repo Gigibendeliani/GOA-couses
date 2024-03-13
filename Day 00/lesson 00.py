@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(30)
+speed(100)
 width(7)
 color("blue")
 #we want to draw a house
@@ -18,7 +18,7 @@ forward(200)
 left(90)
 forward(75)
 
-
+#door
 
 color("green")
 
